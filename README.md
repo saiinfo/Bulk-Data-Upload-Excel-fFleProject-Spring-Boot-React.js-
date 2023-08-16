@@ -56,3 +56,6 @@ Before running the project, make sure you have the following installed:
 - React.js
 - Axios (for API requests)
 
+## Project View
+![20230816_170816](https://github.com/saiinfo/Bulk-Of-Excel-Data-Upload-Downlode-Project-Spring-Boot-React.js-/assets/26924010/49548a4e-2528-444b-9de5-92e45f9a05fc)
+
